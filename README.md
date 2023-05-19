@@ -1,6 +1,6 @@
 ![APPLE DEVELOPER](developer.png)
 
-<a><h1> Hello, my name is Dima👋 </h1></a>
+<a><h3> Hello, my name is Dima👋 </h3></a>
 <a><h1> I am an iOS Developer🧑🏻‍💻 </h1></a>
 <a><h2>GitHub Stats ⚡</h2></a>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MityaKimchanskii&layout=compact)](https://github.com/roynkem/github-readme-stats)
