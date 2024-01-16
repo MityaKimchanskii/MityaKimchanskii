@@ -11,6 +11,6 @@
   
 
 <a><h3>⚡ Skills: </h3></a>
-#### Swift | SwiftUI | UIKit | Auto Layout | MapKit | Core Animation | WKConnectivity | CocoaPods | REST API | JSON | Core Data | CloudKit | Firebase | MongoDB | Git | Github | MVC | MVVM | Algorithms & Data Structures | Unit Testing | HTML | CSS | JavaScript | Python | 
+#### Swift | SwiftUI | UIKit | Auto Layout | MapKit | Core Animation | WKConnectivity | CocoaPods | REST API | JSON | Core Data | CloudKit | Firebase | MongoDB | Git | Github | MVC | MVVM | Algorithms & Data Structures | Unit Testing | HTML | CSS | JavaScript | Python | C++ |
 
 ![ios](ios.png) ![swift](swift.png) ![swiftui](swiftui.png) ![xcode](xcode.png) ![watch](watch.png)
