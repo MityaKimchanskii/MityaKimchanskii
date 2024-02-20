@@ -7,7 +7,7 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MityaKimchanskii&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MityaKimchanskii&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MityaKimchanskii&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Dima's streak" /></p>
   
 
 <a><h3>⚡ Skills: </h3></a>
